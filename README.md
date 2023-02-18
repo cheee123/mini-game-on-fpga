@@ -16,6 +16,7 @@ A game running on FPGA which takes the buttons on the board as input and the scr
 <p align="center">
   <img src="./img-for-README/2.jpg" "Function of the board"/>
 </p> 
+
 ## 3. Description
 At the begining, the game will wait for the button START to be pressed, but before that, we can change the diffculty, speed of tank, shooting frequency through the switches or the remote control. When the game starts, the circuit would generate 30 skeletons moving left and right and approaching the baseline. We can use the buttons to control the automatically shooting tank in order to eliminate all the skeletons. Then we will get in the second stage, which means the skeleton now would move in a irregular way and more difficult to win.
 
@@ -65,4 +66,5 @@ When a skeleton touch the baseline, we will lost 1 heart 10 score, which is disp
   <img src="./img-for-README/8.jpg" "Lose"/>
 </p> 
 <h5 align="center">Lose/h1>
+  
 <p align="center"> [Video link](https://tinyurl.com/29x9wc6n) </p> 
