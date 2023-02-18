@@ -5,17 +5,20 @@ A game running on FPGA which takes the buttons on the board as input and the scr
   <img src="./img-for-README/1.jpg" />
 </p>  
 
-## 2. Description
+## 2. Hardware
 <p align="center">
   <img src="./img-for-README/2.jpg" "Function of the board"/>
 </p> 
-At the begining, the game will wait for the button START to be pressed, but before that, we can change the diffculty, speed of tank, shooting frequency through the switches or the remote control. When the game starts, the circuit would generate 30 skeletons moving left and right and approaching the baseline. We can use the buttons to control the automatically shooting tank in order to eliminate all the skeletons. Then we will get in the second stage, which means the skeleton now would move in a irregular way and more difficult to win.
-
-## 3. Hardware
 FPGA board: DE2-115
+
 IR module (embedded on the board)
+
 Remote control
+
 VGA monitor
+
+## 3. Description
+At the begining, the game will wait for the button START to be pressed, but before that, we can change the diffculty, speed of tank, shooting frequency through the switches or the remote control. When the game starts, the circuit would generate 30 skeletons moving left and right and approaching the baseline. We can use the buttons to control the automatically shooting tank in order to eliminate all the skeletons. Then we will get in the second stage, which means the skeleton now would move in a irregular way and more difficult to win.
 
 ## 4. Algorithm
 <p align="center">
