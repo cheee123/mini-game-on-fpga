@@ -45,7 +45,7 @@ When a skeleton touch the baseline, we will lost 1 heart 10 score, which is disp
 <p align="center">
   <img src="./img-for-README/1.jpg" "Episode 1"/>
 </p> 
-<h5 align="center"Episode 1</h5>
+<h5 align="center">Episode 1</h5>
 <p align="center">
   <img src="./img-for-README/4.jpg" "Scoring"/>
 </p> 
