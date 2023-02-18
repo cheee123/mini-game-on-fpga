@@ -24,6 +24,7 @@ At the begining, the game will wait for the button START to be pressed, but befo
   <img src="./img-for-README/table.jpg" "Images stored in BRAM"/>
 </p> 
 <h5 align="center">Images stored in BRAM</h1>
+
 ### 1. Display:
 All the objects is displayed by raster scan, when the scan pointer is inside of an object's area, the circuit will calculate the relative address in its memory and bring out the correct pixel for output RGB.
 ### 2. Disappear:
@@ -40,26 +41,28 @@ When a skeleton touch the baseline, we will lost 1 heart 10 score, which is disp
 <p align="center">
   <img src="./img-for-README/3.jpg" "Welcome"/>
 </p> 
-<h5 align="center">Images stored in BRAM</h1>
+<h5 align="center">Welcome</h1>
 <p align="center">
   <img src="./img-for-README/1.jpg" "Episode 1"/>
 </p> 
-<h5 align="center">Images stored in BRAM</h1>
+<h5 align="center"Episode 1</h1>
 <p align="center">
   <img src="./img-for-README/4.jpg" "Scoring"/>
 </p> 
-<h5 align="center">Images stored in BRAM</h1>
+<h5 align="center">Scoring</h1>
 <p align="center">
   <img src="./img-for-README/5.jpg" "Deducted heart"/>
-</p> 
+</p>
+<h5 align="center">Deducted heart</h1>
 <p align="center">
   <img src="./img-for-README/6.jpg" "Episode 2"/>
-</p> 
+</p> <h5 align="center">Episode 2</h1>
 <p align="center">
   <img src="./img-for-README/7.jpg" "Win"/>
 </p> 
+<h5 align="center">Win</h1>
 <p align="center">
   <img src="./img-for-README/8.jpg" "Lose"/>
 </p> 
-
-[Video link](https://tinyurl.com/29x9wc6n)  
+<h5 align="center">Lose/h1>
+<p align="center"> [Video link](https://tinyurl.com/29x9wc6n) </p> 
