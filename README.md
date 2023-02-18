@@ -38,7 +38,6 @@ Changing the game parameters (difficulty, etc.) is just simply change the speed 
 When a skeleton touch the baseline, we will lost 1 heart 10 score, which is display on the screen or 7 segment LED.
 
 ## 5. Result
-
 <p align="center">
   <img src="./img-for-README/3.jpg" "Welcome"/>
 </p> 
@@ -46,22 +45,22 @@ When a skeleton touch the baseline, we will lost 1 heart 10 score, which is disp
 <p align="center">
   <img src="./img-for-README/1.jpg" "Episode 1"/>
 </p> 
-<h5 align="center"Episode 1</h1>
+<h5 align="center"Episode 1</h5>
 <p align="center">
   <img src="./img-for-README/4.jpg" "Scoring"/>
 </p> 
-<h5 align="center">Scoring</h1>
+<h5 align="center">Scoring</h5>
 <p align="center">
   <img src="./img-for-README/5.jpg" "Deducted heart"/>
 </p>
-<h5 align="center">Deducted heart</h1>
+<h5 align="center">Deducted heart</h5>
 <p align="center">
   <img src="./img-for-README/6.jpg" "Episode 2"/>
-</p> <h5 align="center">Episode 2</h1>
+</p> <h5 align="center">Episode 2</h5>
 <p align="center">
   <img src="./img-for-README/7.jpg" "Win"/>
 </p> 
-<h5 align="center">Win</h1>
+<h5 align="center">Win</h5>
 <p align="center">
   <img src="./img-for-README/8.jpg" "Lose"/>
 </p> 
