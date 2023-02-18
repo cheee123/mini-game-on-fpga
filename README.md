@@ -6,13 +6,13 @@ A game running on FPGA which takes the buttons on the board as input and the scr
 </p>  
 
 ## 2. Hardware
-FPGA board: DE2-115
+1. FPGA board: DE2-115
 
-IR module (embedded on the board)
+2. IR module (embedded on the board)
 
-Remote control
+3. Remote control
 
-VGA monitor
+4. VGA monitor
 <p align="center">
   <img src="./img-for-README/2.jpg" "Function of the board"/>
 </p> 
@@ -23,7 +23,7 @@ At the begining, the game will wait for the button START to be pressed, but befo
 <p align="center">
   <img src="./img-for-README/table.jpg" "Images stored in BRAM"/>
 </p> 
-
+<h5 align="center">Images stored in BRAM</h1>
 ### 1. Display:
 All the objects is displayed by raster scan, when the scan pointer is inside of an object's area, the circuit will calculate the relative address in its memory and bring out the correct pixel for output RGB.
 ### 2. Disappear:
@@ -40,12 +40,15 @@ When a skeleton touch the baseline, we will lost 1 heart 10 score, which is disp
 <p align="center">
   <img src="./img-for-README/3.jpg" "Welcome"/>
 </p> 
+<h5 align="center">Images stored in BRAM</h1>
 <p align="center">
   <img src="./img-for-README/1.jpg" "Episode 1"/>
 </p> 
+<h5 align="center">Images stored in BRAM</h1>
 <p align="center">
   <img src="./img-for-README/4.jpg" "Scoring"/>
 </p> 
+<h5 align="center">Images stored in BRAM</h1>
 <p align="center">
   <img src="./img-for-README/5.jpg" "Deducted heart"/>
 </p> 
