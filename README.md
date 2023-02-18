@@ -7,7 +7,7 @@ A game running on FPGA which takes the buttons on the board as input and the scr
 
 ## 2. Description
 <p align="center">
-  <img src="./img-for-README/2.jpg" "Function on the board"/>
+  <img src="./img-for-README/2.jpg" "Function of the board"/>
 </p> 
 At the begining, the game will wait for the button START to be pressed, but before that, we can change the diffculty, speed of tank, shooting frequency through the switches or the remote control. When the game starts, the circuit would generate 30 skeletons moving left and right and approaching the baseline. We can use the buttons to control the automatically shooting tank in order to eliminate all the skeletons. Then we will get in the second stage, which means the skeleton now would move in a irregular way and more difficult to win.
 
@@ -19,8 +19,9 @@ VGA monitor
 
 ## 4. Algorithm
 <p align="center">
-  <img src="./img-for-README/table.jpg" ""/>
+  <img src="./img-for-README/table.jpg" "Images stored in BRAM"/>
 </p> 
+
 ### 1. Display:
 All the objects is displayed by raster scan, when the scan pointer is inside of an object's area, the circuit will calculate the relative address in its memory and bring out the correct pixel for output RGB.
 ### 2. Disappear:
@@ -34,23 +35,24 @@ When a skeleton touch the baseline, we will lost 1 heart 10 score, which is disp
 
 ## 5. Result
 <p align="center">
-  <img src="./img-for-README/3.jpg" ""/>
+  <img src="./img-for-README/3.jpg" "Welcome"/>
 </p> 
 <p align="center">
-  <img src="./img-for-README/1.jpg" ""/>
+  <img src="./img-for-README/1.jpg" "Episode 1"/>
 </p> 
 <p align="center">
-  <img src="./img-for-README/4.jpg" ""/>
+  <img src="./img-for-README/4.jpg" "Scoring"/>
 </p> 
 <p align="center">
-  <img src="./img-for-README/5.jpg" ""/>
+  <img src="./img-for-README/5.jpg" "Deducted heart"/>
 </p> 
 <p align="center">
-  <img src="./img-for-README/6.jpg" ""/>
+  <img src="./img-for-README/6.jpg" "Episode 2"/>
 </p> 
 <p align="center">
-  <img src="./img-for-README/7.jpg" ""/>
+  <img src="./img-for-README/7.jpg" "Win"/>
 </p> 
 <p align="center">
-  <img src="./img-for-README/8.jpg" ""/>
+  <img src="./img-for-README/8.jpg" "Lose"/>
 </p> 
+[Video link](https://tinyurl.com/29x9wc6n)  
